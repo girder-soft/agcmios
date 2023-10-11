@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AGCM' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AGCM
+  pod 'Eureka'
+  pod 'IQKeyboardManagerSwift'
+  pod 'ProgressHUD'
+  pod 'Alamofire'
+  pod 'ImageScrollView'
+
+  target 'AGCMTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'AGCMUITests' do
+    # Pods for testing
+  end
+
+end

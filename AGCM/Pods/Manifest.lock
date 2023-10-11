@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.4)
+  - Eureka (5.4.0)
+  - ImageScrollView (1.9.3)
+  - IQKeyboardManagerSwift (6.5.11)
+  - ProgressHUD (13.6.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Eureka
+  - ImageScrollView
+  - IQKeyboardManagerSwift
+  - ProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Eureka
+    - ImageScrollView
+    - IQKeyboardManagerSwift
+    - ProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  Eureka: fadaa9fa3d6e402d3c60f78f24edf3d7bafc9c29
+  ImageScrollView: d3ce8371e0d44299b2b638410db45387e18aa83f
+  IQKeyboardManagerSwift: c7955c0bdbf7b2eb29bb7daaa44e3d90f55a9a85
+  ProgressHUD: 355915c8f033e626788fa9b0d99d06e8691595ab
+
+PODFILE CHECKSUM: 5270a51253dd638807c8a2c1b4a3dde72315adb2
+
+COCOAPODS: 1.11.3
